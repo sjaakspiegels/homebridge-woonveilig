@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "WoonveiligPlugin",
   "pluginType": "platform",
   "singular": true,
   "schema": {
